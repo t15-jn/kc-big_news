@@ -1,0 +1,22 @@
+html,
+body{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #f2f3f5;
+}
+
+.layui-card-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.layui-card-header span{
+  font-weight: 700;
+  font-size: 16px;
+}
+.layui-form{
+  padding-top: 20px;
+  padding-right: 30px;
+}
